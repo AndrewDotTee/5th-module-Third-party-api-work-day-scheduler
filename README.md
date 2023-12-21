@@ -14,8 +14,8 @@ When the 9-5pm schedule planner is opened, the current time and date is shown at
 
 ## Screenshot
 
-Beginning of the code quiz game screenshot:
-![](https://github.com/AndrewDotTee/5th-module-Third-party-api-work-day-scheduler/blob/main/Assets/05-third-party-apis-homework-demo.gif)
+Deployed application demonstration screenshot:
+![](https://github.com/AndrewDotTee/5th-module-Third-party-api-work-day-scheduler/blob/main/assets/work-day-scheduler-demo.jpg)
 
 ## Installation Output
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
